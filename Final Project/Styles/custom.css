@@ -54,9 +54,12 @@
         display: block;
     }	
     .text_cell_render h2 {
+	font-size: 20pt;
+		line-height: 100%;
 	font-style: italic;
-	margin-bottom: 1.0em;
-	margin-top: 1.0em;
+	margin-bottom: 0.2em;
+	margin-top: 0.2em;
+	display; block;
     }
     .text_cell_render h5 {
         font-weight: 300;
