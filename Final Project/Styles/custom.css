@@ -49,12 +49,14 @@
 		line-height: 100%;
         color:#CD2305;
 	font-style: italic;
-        margin-bottom: 0.3em;
+        margin-bottom: 0.2em;
         margin-top: 0.5em;
         display: block;
     }	
     .text_cell_render h2 {
 	font-style: italic;
+	margin-bottom: 1.0em;
+	margin-top: 1.0em;
     }
     .text_cell_render h5 {
         font-weight: 300;
