@@ -12,10 +12,10 @@
         margin-right:auto;
     }
     h1 {
-        font-family: 'Alegreya Sans', sans-serif;
+        font-family: 'Jet Set', sans-serif;
     }
     h2 {
-        font-family: 'Fenix', serif;
+        font-family: 'Jet Set', sans-serif;
     }
     h3{
 		font-family: 'Fenix', serif;
@@ -48,6 +48,7 @@
         font-size: 50pt;
 		line-height: 100%;
         color:#CD2305;
+	font-style: italic;
         margin-bottom: 0.5em;
         margin-top: 0.5em;
         display: block;
